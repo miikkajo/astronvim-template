@@ -6,7 +6,7 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.pack.ansible" },
-  { import = "astrocommunity.editing-support.auto-save-nvim"},
+  -- { import = "astrocommunity.pack.ansible" },
+  { import = "astrocommunity.editing-support.auto-save-nvim" },
   -- import/override with your plugins folder
 }
